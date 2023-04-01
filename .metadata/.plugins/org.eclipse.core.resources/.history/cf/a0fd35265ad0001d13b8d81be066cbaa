@@ -1,0 +1,6 @@
+package chapter4_9;
+
+public enum BaseballTeam {
+  private int winl
+  private int lose;
+}

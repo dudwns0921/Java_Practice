@@ -1,0 +1,8 @@
+package chapter4_9;
+
+public class Employee {
+  int nSalary;
+  String dept;
+
+  public abstract void doJob();
+}

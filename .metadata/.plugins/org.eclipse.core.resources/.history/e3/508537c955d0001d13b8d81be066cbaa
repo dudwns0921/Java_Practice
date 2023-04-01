@@ -1,0 +1,18 @@
+package chapter4_8;
+
+public class Computer {
+  private int nMemoryCapacity;
+  private int nHDDCapacity;
+  private boolean qPowered;
+  public Computer() {
+   this.qPowered = false;
+  }
+  
+  void powerOn() {
+    this.qPowered = true;
+  }
+
+  void powerOff() {
+    this.qPowered = false;
+  }
+}

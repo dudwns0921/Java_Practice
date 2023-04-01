@@ -1,0 +1,5 @@
+package chapter3_8;
+
+public class CSub extends CSuper {
+
+}

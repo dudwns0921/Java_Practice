@@ -1,0 +1,20 @@
+package chapter3_9;
+
+public abstract class Shape {
+  public double height, width;
+
+  public Shape(double h, double w) {
+    height = h;
+    width = w;
+  }
+
+  public void setHeight(double h) {
+    height = h;
+  }
+
+  public void setWidth(double w) {
+    width = w;
+  }
+  
+  @get
+}

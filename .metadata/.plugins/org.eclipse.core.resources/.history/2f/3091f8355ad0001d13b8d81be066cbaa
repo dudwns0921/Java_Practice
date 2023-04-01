@@ -1,0 +1,10 @@
+package chapter4_9;
+
+public enum BaseballTeam {
+  private int win;
+  private int lose;
+
+  private BaseballTeam() {
+    // TODO Auto-generated constructor stub
+  }
+}

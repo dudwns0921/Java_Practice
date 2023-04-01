@@ -1,0 +1,12 @@
+package chapter4_4;
+
+public class Circle implements Figure {
+  public static final double PI = 3.141592;
+  private double r;
+
+  @Override
+  public double getArea() {
+    return this.r * this.r * Circle.PI;
+  }
+
+}

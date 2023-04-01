@@ -1,0 +1,5 @@
+package chapter4_5;
+
+public class TV extends Electronics {
+  private int size;
+}

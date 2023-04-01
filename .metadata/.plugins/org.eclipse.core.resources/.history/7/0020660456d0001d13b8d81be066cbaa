@@ -1,0 +1,9 @@
+package chapter4_8;
+
+public class MyComputer extends Computer implements Calculator {
+  @Override
+  public void calculate(String order) {
+    System.out.println("MyComputer :" + order);
+
+  }
+}

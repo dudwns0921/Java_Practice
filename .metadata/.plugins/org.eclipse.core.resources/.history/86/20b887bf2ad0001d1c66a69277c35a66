@@ -1,0 +1,11 @@
+package chapter3_7;
+
+public class CSub extends CSuper {
+  public double x;
+
+  public CSub(double new_x) {
+    this.x = new_x;
+    super.x = new_x * 10;
+
+  }
+}

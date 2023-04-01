@@ -1,0 +1,13 @@
+package chapter3_9;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+public class Triangle {
+
+  public Triangle() {
+    // TODO Auto-generated constructor stub
+  }
+}

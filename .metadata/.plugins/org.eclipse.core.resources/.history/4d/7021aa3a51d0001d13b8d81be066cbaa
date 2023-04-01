@@ -1,0 +1,10 @@
+package chapter4_4;
+
+public class InterfaceTest {
+
+  public static void main(String[] args) {
+    Figure figure, figure2;
+
+  }
+
+}

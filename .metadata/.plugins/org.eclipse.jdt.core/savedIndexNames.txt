@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+C:\Users\jeroj\OneDrive\바탕 화면\내 폴더\프로젝트 폴더\Practice\.metadata\.plugins\org.eclipse.jdt.core
+765344558.index
+1067094681.index
+1865797976.index
+2987908887.index

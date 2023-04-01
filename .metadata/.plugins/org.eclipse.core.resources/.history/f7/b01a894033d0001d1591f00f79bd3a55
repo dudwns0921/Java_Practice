@@ -1,0 +1,13 @@
+package chapter3_9;
+
+import lombok.Getter;
+@Getter
+public abstract class Shape {
+  public double height, width;
+
+  public Shape(double h, double w) {
+    height = h;
+    width = w;
+  }
+
+}

@@ -1,0 +1,11 @@
+package chapter4_9;
+
+public class Sales extends Employee {
+
+  @Override
+  public void doJob() {
+    // TODO Auto-generated method stub
+
+  }
+
+}

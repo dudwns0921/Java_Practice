@@ -1,0 +1,5 @@
+package chapter4_11;
+
+public class CSuper {
+  public int a = 10;
+}

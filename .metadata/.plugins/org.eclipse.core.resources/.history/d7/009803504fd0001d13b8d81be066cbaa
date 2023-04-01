@@ -1,0 +1,18 @@
+package chapter4_3;
+
+public class Point implements Movable {
+  private double x, y;
+
+  @Override
+  public void add(double dx, double dy) {
+
+
+  }
+
+  @Override
+  public void sub(double dx, double dy) {
+    // TODO Auto-generated method stub
+
+  }
+
+}

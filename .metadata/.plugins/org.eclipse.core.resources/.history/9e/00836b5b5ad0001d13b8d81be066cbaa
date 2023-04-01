@@ -1,0 +1,13 @@
+package chapter4_9;
+
+public enum BaseballTeam {
+  LG(40, 35);
+
+  private final int win;
+  private final int lose;
+
+  private BaseballTeam(int win, int lose) {
+    this.win = win;
+    this.lose = lose;
+  }
+}

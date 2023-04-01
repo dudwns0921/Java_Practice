@@ -1,0 +1,18 @@
+package chapter4_9;
+
+import lombok.Getter;
+
+@Getter
+public enum BaseballTeam {
+  LG(40, 35);
+
+  private int win;
+  private int lose;
+
+  private BaseballTeam(int win, int lose) {
+    this.win = win;
+    this.lose = lose;
+  }
+  
+
+}

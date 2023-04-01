@@ -1,0 +1,12 @@
+package chapter4_4;
+
+public class Triangle implements Figure {
+  private double width, height;
+
+  @Override
+  public double getArea() {
+    // TODO Auto-generated method stub
+    return 0;
+  }
+
+}
