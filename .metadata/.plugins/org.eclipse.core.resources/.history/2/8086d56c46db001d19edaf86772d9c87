@@ -1,0 +1,11 @@
+package chapter5_5;
+
+import lombok.Getter;
+
+@Getter
+public class OrderedPair<K, V> implements Pair<K, V> {
+  
+  private K key;
+  private V value;
+
+}

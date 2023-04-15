@@ -1,0 +1,13 @@
+package chapter5_7;
+
+public class LambdaTest {
+
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+    MyInterface1 myInterface1, myInterface2;
+    MyInterface2 myInterface3, myInterface4;
+    myInterface1 = (int a, int b) -> System.out.println(a + b);
+
+  }
+
+}

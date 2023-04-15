@@ -1,0 +1,11 @@
+package chapter5_3;
+
+public class Test {
+
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+    OrderedPair<String, String> orderedPair = new OrderedPair<K, V>("key", "value");
+
+  }
+
+}

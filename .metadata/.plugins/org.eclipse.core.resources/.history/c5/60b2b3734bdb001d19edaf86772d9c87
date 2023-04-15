@@ -1,0 +1,6 @@
+package chapter5_7;
+
+public class MyInterface1 {
+  public void method(int a, int b);
+
+}

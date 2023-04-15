@@ -1,0 +1,17 @@
+package chapter5_5;
+
+import lombok.Getter;
+
+@Getter
+public class OrderedPair<K, V> implements Pair<K, V> {
+
+  private K key;
+  private V value;
+  
+  public OrderedPair(K k, V v) {
+    // TODO Auto-generated constructor stub
+    this.key = k;
+    this.value = v;
+  }
+
+}

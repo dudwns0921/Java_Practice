@@ -1,0 +1,13 @@
+package chapter5_1;
+
+public class GenericsTest {
+
+  public static void main(String[] args) {
+    Data data = new Data();
+    int i = 20;
+    data.setObject(i);
+    String string = (String) data.getObject();
+
+  }
+
+}

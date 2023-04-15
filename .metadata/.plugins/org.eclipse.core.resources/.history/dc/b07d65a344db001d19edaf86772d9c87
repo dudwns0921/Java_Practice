@@ -1,0 +1,13 @@
+package chapter5_3;
+
+public class Test {
+
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+    OrderedPair<String, String> orderedPair = new OrderedPair<>("key", "value");
+    System.out.println(orderedPair.getKey())
+    System.out.println(orderedPair.getValue())
+
+  }
+
+}

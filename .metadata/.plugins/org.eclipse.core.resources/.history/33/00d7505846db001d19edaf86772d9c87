@@ -1,0 +1,5 @@
+package chapter5_5;
+
+public class OrderedPair<K,V> implements Pair<K, V> {
+
+}

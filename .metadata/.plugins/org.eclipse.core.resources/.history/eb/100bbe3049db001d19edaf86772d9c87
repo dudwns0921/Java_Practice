@@ -1,0 +1,13 @@
+package chapter5_6;
+
+import chapter5_5.Pair;
+
+public class GenericsTest4 {
+
+  public static void main(String[] args) {
+    Pair<Integer, String> pair = new Pair<>(1, "apple");
+    Pair<Integer, String> pair = new Pair<>(2, "pear");
+
+  }
+
+}

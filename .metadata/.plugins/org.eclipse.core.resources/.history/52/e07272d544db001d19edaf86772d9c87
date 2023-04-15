@@ -1,0 +1,6 @@
+package chapter5_4;
+
+public class Data<T> {
+   private T t;
+   public Data(T t) {this.t= t;}
+}

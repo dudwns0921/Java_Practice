@@ -1,0 +1,7 @@
+package chapter5_6;
+
+import chapter5_5.Pair;
+
+public interface Comparable<K, V> {
+  public boolean compare(Pair<K, V> pair, Pair<K, V> pair2)
+}

@@ -1,0 +1,11 @@
+package chapter5_10;
+
+public class FunctionTest {
+
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+    Student student1 = new Student("Elio", 2000);
+
+  }
+
+}

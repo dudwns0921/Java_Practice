@@ -1,0 +1,10 @@
+package chapter5_6;
+
+public class GenericsTest4 {
+
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+
+  }
+
+}

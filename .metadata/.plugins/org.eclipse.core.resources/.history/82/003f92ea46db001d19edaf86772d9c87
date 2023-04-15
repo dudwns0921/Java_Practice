@@ -1,0 +1,11 @@
+package chapter5_5;
+
+public class MultipleType {
+
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+    Pair<String, Integer> pair = new OrderedPair<String, Integer>("Even", 8);
+
+  }
+
+}
