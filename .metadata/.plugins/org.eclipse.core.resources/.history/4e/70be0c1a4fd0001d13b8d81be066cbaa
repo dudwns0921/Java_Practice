@@ -1,7 +1,0 @@
-package chapter4_3;
-
-public interface Movable {
-  void add(double dx, double dy);
-  void sub(double dx, double dy);
-
-}

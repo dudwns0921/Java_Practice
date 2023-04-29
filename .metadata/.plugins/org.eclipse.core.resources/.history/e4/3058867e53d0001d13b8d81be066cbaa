@@ -1,9 +1,0 @@
-package chapter4_6;
-
-public class B extends A {
-  @Override
-  public void func() {
-    // TODO Auto-generated method stub
-    super.func();
-  }
-}

@@ -1,6 +1,0 @@
-package chapter4_2;
-
-public abstract interface Figure {
-  public static final double PI = 3.141592;
-  public abstract double getArea();
-}

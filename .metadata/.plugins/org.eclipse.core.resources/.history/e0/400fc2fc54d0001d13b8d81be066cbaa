@@ -1,9 +1,0 @@
-package chapter4_7;
-
-public class PersonalComputer implements Computer {
-  @Override
-  public void calculate(String order) {
-    // TODO Auto-generated method stub
-    
-  }
-}

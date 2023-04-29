@@ -1,9 +1,0 @@
-package chapter4_5;
-
-public class TV extends Electronics {
-  private int size;
-
-  public TV(int nInputSize) {
-    this.size = nInputSize;
-  }
-}

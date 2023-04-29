@@ -1,5 +1,0 @@
-package chapter4_8;
-
-public class MyComputer extends Computer implements Calculator {
-
-}

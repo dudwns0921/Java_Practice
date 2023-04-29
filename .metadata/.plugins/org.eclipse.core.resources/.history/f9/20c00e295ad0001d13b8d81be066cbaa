@@ -1,6 +1,0 @@
-package chapter4_9;
-
-public enum BaseballTeam {
-  private int win;
-  private int lose;
-}
