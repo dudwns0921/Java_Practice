@@ -1,4 +1,4 @@
-package chpater5_9;
+package chapter5_9;
 
 import java.util.function.Supplier;
 
